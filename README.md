@@ -15,4 +15,8 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
