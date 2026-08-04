@@ -7,6 +7,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,16 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0008-string-to-integer-atoi) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
