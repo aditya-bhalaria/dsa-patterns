@@ -24,14 +24,12 @@ public:
     }
     
     ListNode* findKthNode(ListNode* hd,int count){
-        while(hd!=nullptr){
+        count--;
+        while(hd!=nullptr && count>0){
             count--;
-            if(count==0){
-                return hd;
-            }
             hd=hd->next;
         }
-        return nullptr;
+        return hd;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
         ListNode* temp=head;
