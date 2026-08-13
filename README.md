@@ -29,6 +29,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,9 +53,14 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
