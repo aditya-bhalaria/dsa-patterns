@@ -8,6 +8,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0138-copy-list-with-random-pointer) |
@@ -24,6 +25,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0025-reverse-nodes-in-k-group) |
 ## String
 |  |
