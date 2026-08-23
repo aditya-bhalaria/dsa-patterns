@@ -22,6 +22,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0002-add-two-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -89,4 +90,24 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
