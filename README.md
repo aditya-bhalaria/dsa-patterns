@@ -45,6 +45,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
