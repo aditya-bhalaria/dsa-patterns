@@ -40,6 +40,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
@@ -65,6 +66,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
