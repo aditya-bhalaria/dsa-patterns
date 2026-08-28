@@ -24,6 +24,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0029-divide-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -38,6 +39,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,4 +124,8 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
