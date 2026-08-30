@@ -78,6 +78,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -100,6 +101,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -136,6 +138,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0022-generate-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
