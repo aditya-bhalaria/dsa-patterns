@@ -26,6 +26,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
+| [1922-count-good-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -36,6 +37,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0024-swap-nodes-in-pairs](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
