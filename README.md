@@ -30,6 +30,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [1922-count-good-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [1672-richest-customer-wealth](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
