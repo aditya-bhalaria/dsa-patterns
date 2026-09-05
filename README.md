@@ -51,6 +51,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
@@ -79,6 +80,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0001-two-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0051-n-queens) |
@@ -144,6 +146,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0051-n-queens) |
@@ -161,6 +164,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 | [1672-richest-customer-wealth](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
@@ -177,5 +181,10 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
