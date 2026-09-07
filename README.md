@@ -117,6 +117,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0231-power-of-two](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
