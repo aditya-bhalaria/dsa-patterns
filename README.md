@@ -24,6 +24,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0009-palindrome-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
@@ -39,6 +40,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0024-swap-nodes-in-pairs](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -112,6 +114,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0029-divide-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
