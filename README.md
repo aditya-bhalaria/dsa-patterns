@@ -31,6 +31,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [1922-count-good-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
