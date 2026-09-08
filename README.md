@@ -89,6 +89,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0051-n-queens](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -115,6 +116,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0029-divide-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
