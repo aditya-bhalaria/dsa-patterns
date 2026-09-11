@@ -89,6 +89,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0137-single-number-ii) |
@@ -108,6 +109,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0540-single-element-in-a-sorted-array) |
@@ -180,6 +182,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
