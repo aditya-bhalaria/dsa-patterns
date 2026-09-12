@@ -205,4 +205,16 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
