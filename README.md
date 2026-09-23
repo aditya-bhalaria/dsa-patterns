@@ -95,6 +95,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
@@ -112,6 +113,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0540-single-element-in-a-sorted-array) |
