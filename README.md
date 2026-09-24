@@ -30,6 +30,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
 | [1922-count-good-numbers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3871-count-commas-in-range-ii) |
@@ -105,6 +106,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1929-concatenation-of-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
