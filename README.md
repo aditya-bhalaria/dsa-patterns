@@ -53,6 +53,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0020-valid-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -105,6 +107,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [1480-running-sum-of-1d-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1672-richest-customer-wealth](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1929-concatenation-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
