@@ -53,6 +53,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0020-valid-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0022-generate-parentheses) |
 | [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -203,6 +204,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -222,6 +224,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0020-valid-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
