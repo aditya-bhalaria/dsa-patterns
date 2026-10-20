@@ -67,6 +67,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -104,6 +105,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0260-single-number-iii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1480-running-sum-of-1d-array) |
@@ -228,6 +230,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0155-min-stack](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -245,4 +248,8 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0678-valid-parenthesis-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
