@@ -6,17 +6,30 @@ public:
     // optimal:Asuume hypothetical array of size 2*n-1
 
     vector<int> nextGreaterElements(vector<int>& nums) {
-        int n = 2 * nums.size() - 1;
-        vector<int> ans;
-        for (int i = 0; i < nums.size(); i++) {
-            int element = -1;
-            for (int j = i + 1; j <= n; j++) {
-                if ((nums[j % nums.size()] > nums[i])) {
-                    element = nums[j % nums.size()];
-                    break;
+        int size = nums.size();
+        stack<int> st;
+        vector<int> ans(nums.size());
+        long long Ms = 2 * size-1;
+        for (int i = Ms ; i >= 0; i--) {
+            while (!st.empty() && st.top() <= nums[i%size]) {
+                st.pop();
+            }
+
+            if (st.empty()) {
+                if (i < size) {
+                    st.push(nums[i]);
+                    ans[i] = -1;
+                } else {
+                    st.push(nums[i%size]);
+                }
+            } else if (!st.empty() && st.top() > nums[i%size]) {
+                if (i < size) {
+                    ans[i] = st.top();
+                    st.push(nums[i]);
+                } else {
+                    st.push(nums[i%size]);
                 }
             }
-            ans.push_back(element);
         }
         return ans;
     }
