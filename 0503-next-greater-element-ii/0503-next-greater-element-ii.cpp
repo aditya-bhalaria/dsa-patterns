@@ -1,30 +1,23 @@
 class Solution {
 public:
-    vector<int> nextGreaterElements(vector<int>& nums) {
-      int n=nums.size();
-      stack<int>st;
-      vector<int>ans(n);
-      int Letsize=2*n-1;
-      for(int i=Letsize ; i>=0 ; i--){
-        while(!st.empty() && st.top() <= nums[i%n]){
-          st.pop();
-        }
+    // Brute force can be checking the whole array in a circular manner the
+    // complexity will be nearly n2
 
-        if(st.empty()){
-          if(i<n){
-            ans[i%n]=-1;
-          }
-          st.push(nums[i%n]);
+    // optimal:Asuume hypothetical array of size 2*n-1
+
+    vector<int> nextGreaterElements(vector<int>& nums) {
+        int n = 2 * nums.size() - 1;
+        vector<int> ans;
+        for (int i = 0; i < nums.size(); i++) {
+            int element = -1;
+            for (int j = i + 1; j <= n; j++) {
+                if ((nums[j % nums.size()] > nums[i])) {
+                    element = nums[j % nums.size()];
+                    break;
+                }
+            }
+            ans.push_back(element);
         }
-        else if(st.top() > nums[i%n]){
-          if(i<n){
-            ans[i%n]=st.top();
-          } 
-            st.push(nums[i%n]);
-          
-        }
-        else st.push(nums[i%n]);
-      }
-         return ans;
+        return ans;
     }
 };
