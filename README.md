@@ -73,6 +73,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
@@ -96,6 +97,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0078-subsets) |
@@ -203,6 +205,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -228,6 +231,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0232-implement-queue-using-stacks) |
@@ -253,6 +257,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
