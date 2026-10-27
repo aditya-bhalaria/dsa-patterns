@@ -1,27 +1,32 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-      int n=height.size();
-      int array_max=INT_MIN;
-        vector<int>PrefixMax;
-        vector<int>PostfixMax(n);
+        int leftMax=0;
+        int rightMax=0,total=0;
 
-        for(int i=0 ; i<n ; i++){
-           array_max=max(height[i],array_max);
-           PrefixMax.push_back(array_max);
-        }
 
-          array_max=INT_MIN;
-        for(int i=n-1 ; i>=0 ; i--){
-           array_max=max(height[i],array_max);
-           PostfixMax[i]=array_max;
+        int left=0,right=height.size()-1;
+        while(left<right){
+          if(height[left]<height[right]){
+            if(height[left]>=leftMax){
+              leftMax=height[left];
+            }
+            else{
+              total+=(leftMax-height[left]);
+            }
+            left++;
+          }
+
+          else{
+            if(height[right]>=rightMax){
+              rightMax=height[right];
+            }
+            else{
+              total+=(rightMax-height[right]);
+            }
+            right--;
+          }
         }
-        int ans=0;
-        int j=0;
-        while(j<n){
-          ans+=(min(PrefixMax[j],PostfixMax[j])-height[j]);
-          j++;
-        }
-        return ans;
+        return total;
     }
 };
