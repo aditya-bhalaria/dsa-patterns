@@ -117,6 +117,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [1672-richest-customer-wealth](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -242,6 +243,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0678-valid-parenthesis-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -264,4 +266,5 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
