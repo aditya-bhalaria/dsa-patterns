@@ -118,6 +118,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2104-sum-of-subarray-ranges) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3875-construct-uniform-parity-array-i) |
@@ -267,4 +268,8 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0503-next-greater-element-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2104-sum-of-subarray-ranges) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
