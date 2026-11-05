@@ -12,21 +12,26 @@ public:
             st.pop();
         }
 
-        if (st.empty()) {
-            st.push(day);
-            pge = -1;
-            int current_stock_span = day - pge;
-            day++;
-            return current_stock_span;
-        }
+        int css=day-(st.empty() ? -1 : st.top());
+        st.push(day);
+        day++;
+        return css;
 
-        else  {
-            pge = st.top();
-            int current_stock_span = day;
-            st.push(day);
-            day++;
-            return current_stock_span - pge;
-        }
+        // if (st.empty()) {
+        //     st.push(day);
+        //     pge = -1;
+        //     int current_stock_span = day - pge;
+        //     day++;
+        //     return current_stock_span;
+        // }
+
+        // else  {
+        //     pge = st.top();
+        //     int current_stock_span = day;
+        //     st.push(day);
+        //     day++;
+        //     return current_stock_span - pge;
+        // }
     }
 };
 
