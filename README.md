@@ -108,6 +108,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0090-subsets-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
@@ -271,6 +272,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
 | ------- |
@@ -296,8 +298,21 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
