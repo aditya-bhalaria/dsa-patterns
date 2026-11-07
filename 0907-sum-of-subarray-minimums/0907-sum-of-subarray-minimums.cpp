@@ -52,7 +52,7 @@ public:
              int right=nse[i]-i;
              long long elements=(left*right)%Mod;
              sum=(sum+elements*arr[i])%Mod;
-             sum%=Mod;
+             
         }
        return sum;
     }
