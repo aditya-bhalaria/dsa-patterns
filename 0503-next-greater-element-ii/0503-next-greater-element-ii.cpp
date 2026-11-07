@@ -20,7 +20,7 @@ public:
                 ans[i]=-1;
             }
         }
-        else if(!st.empty() && st.top()>nums[i%n]){
+        else{
             if(i>=n) st.push(nums[i%n]);
             else{
                 ans[i]=st.top();
