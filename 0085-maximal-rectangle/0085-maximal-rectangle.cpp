@@ -1,55 +1,51 @@
 class Solution {
 public:
 
-    int MaxHistogram(vector<int>row){
-      stack<int>st;
-      int max_area=0;
-
-      for(int i=0 ; i<row.size() ;i++){
-
-        while(!st.empty() && row[st.top()]>row[i]){
-          int element=st.top();st.pop();
-          int nse=i;
-          int pse=st.empty() ? -1 : st.top();
-          max_area=max(max_area,row[element]*(nse-pse-1));
+    int LargestHistogram(vector<int>arr){
+        int area=0;
+        int nse=0,pse=0;
+        int elmnt_indx;
+        stack<int>st;
+        for(int i=0 ; i<arr.size() ; i++){
+            while(!st.empty() && arr[st.top()]>arr[i]){
+                elmnt_indx=st.top();st.pop();
+                nse=i; pse=st.empty() ? -1 : st.top();
+                area=max(area,arr[elmnt_indx]*(nse-pse-1));
+            }
+            st.push(i);
         }
-        st.push(i);
+
+        while(!st.empty()){
+            elmnt_indx=st.top();st.pop();
+            nse=arr.size();
+            pse=st.empty() ? -1 : st.top();
+        area=max(area,arr[elmnt_indx]*(nse-pse-1));
+        }
+        return area;
     }
-    while(!st.empty()){
-      int ele=st.top(); st.pop();
-      int nse=row.size();
-      int pse=st.empty() ? -1 : st.top();
-      max_area=max(max_area,row[ele]*(nse-pse-1));
-    }
-    return max_area;
-    }
-    
     int maximalRectangle(vector<vector<char>>& matrix) {
-      int rows = matrix.size();
-      int cols = matrix[0].size();
-      stack<int>st;
-      int Area=0;
-        vector<vector<int>>Prefix(rows,vector<int>(cols,0));
+        int ans=0;
+        vector<vector<int>>Prefix(matrix.size(),vector<int>(matrix[0].size(),0));
 
-        for(int i=0 ; i<cols ; i++){
-          for(int j=0 ; j<rows ;j++){
-            if(j==0){
-              Prefix[j][i]=matrix[j][i]-'0';
+        for(int col=0 ; col<matrix[0].size() ; col++){
+            for(int row=0 ; row<matrix.size() ; row++){
+                if(row==0){
+                    Prefix[row][col]=matrix[row][col]-'0';
+                }
+                else{
+                    if(matrix[row][col]=='1'){
+                        Prefix[row][col]=1+Prefix[row-1][col];
+                    }
+                    else{
+                        Prefix[row][col]=0;
+                    }
+                }
             }
-            else{
-              if(matrix[j][i]=='1'){
-                Prefix[j][i]=1+(Prefix[j-1][i]);
-              }
-              else{
-                Prefix[j][i]=0;
-              }
-            }
-          }
         }
-        for(int i=0 ; i<rows ; i++){
-          Area=max(Area,MaxHistogram(Prefix[i]));
+        for(int i=0 ; i<Prefix.size() ; i++){
+            ans=max(ans,LargestHistogram(Prefix[i]));
         }
-   return Area;
+        return ans;
 
     }
 };
