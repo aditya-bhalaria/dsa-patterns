@@ -15,6 +15,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -67,6 +68,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0138-copy-list-with-random-pointer](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
@@ -263,6 +265,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0232-implement-queue-using-stacks) |
@@ -315,4 +318,8 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
