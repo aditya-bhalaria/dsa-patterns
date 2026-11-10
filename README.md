@@ -17,6 +17,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0142-linked-list-cycle-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0146-lru-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
+| [0460-lfu-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -269,6 +271,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0155-min-stack](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -322,4 +325,5 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
