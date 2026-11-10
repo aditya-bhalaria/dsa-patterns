@@ -11,86 +11,86 @@ class Node{
         prev=p1;
         key=k;
     }
+
     Node(int d1){
-       data=d1;
-       next=prev=nullptr;
-       key=-1;
+        data=d1;
+        key=-1;
+        next=prev=nullptr;
     }
+
     Node(int k1 , int d1){
-       key=k1;
-       data=d1;
-       next=prev=nullptr;
+        data=d1;
+        key=k1;
+        next=prev=nullptr;
     }
 };
 
-void Insertion(Node* head , Node* toInsert){
-    toInsert->next=head->next;
-    toInsert->next->prev=toInsert;
-    head->next=toInsert;
-    toInsert->prev=head;
+void Deletion(Node* todel){
+    Node* temp=todel->prev;
+    temp->next=todel->next;
+    todel->next->prev=temp;
 }
-void DllDeletion(Node* todelete){
-  Node* temp=todelete;
-  Node* p=temp->prev;
-  p->next=temp->next;
-  temp->next->prev=p;  
+
+void Insertion(Node* head , Node* toins){
+    toins->next=head->next;
+    toins->next->prev=toins;
+    head->next=toins;
+    toins->prev=head;
 }
 
 class LRUCache {
 public:
-Node* head=new Node(-1);
-Node* tail=new Node(-1);
-
-unordered_map<int,Node*>mp;
-int size=0;
-int capacity_;
+    int c;
+    int size=0;
+    Node* head=new Node(-1);
+    Node* tail=new Node(-1);
+    unordered_map<int,Node*>mp;
     LRUCache(int capacity) {
-        capacity_=capacity;
+        c=capacity;
         head->next=tail;
         tail->prev=head;
     }
     
     int get(int key) {
         if(mp.find(key)==mp.end()) return -1;
-        Node* node=mp[key];
-        DllDeletion(node);
-        Insertion(head,node);
-        return node->data;
+        Node* n=mp[key];
+        Deletion(n);
+        Insertion(head,n);
+        return n->data;
     }
     
     void put(int key, int value) {
-        if(capacity_==0) return;
-        
-        if(size<capacity_){
+        if(c==0) return;
+        if(size<c){
             if(mp.find(key)==mp.end()){
-            size++;
-            Node* n=new Node(key,value);
-            Insertion(head,n);
-            mp[key]=n;
+                size++;
+                Node* put=new Node(key,value);
+                mp[key]=put;
+                Insertion(head,mp[key]);
             }
             else{
-                Node* n=mp[key];
-                DllDeletion(n);
-                Insertion(head,n);
-                n->data=value;
+                Node* tochange=mp[key];
+                tochange->data=value;
+                Deletion(tochange);
+                Insertion(head,tochange);
             }
         }
         else{
-          if(mp.find(key)==mp.end()){
-          mp.erase(tail->prev->key);
-          Node* lru=tail->prev;
-          DllDeletion(tail->prev);
-          Node* ins=new Node(key,value);
-          mp[key]=ins;
-          Insertion(head,ins);
-          delete(lru);
-          }
-          else{
-            Node* n=mp[key];
-            DllDeletion(n);
-            Insertion(head,n);
-            n->data=value;
-          }
+         if(mp.find(key)==mp.end()){
+            Node* put=new Node(key,value);
+            Node* LRU=tail->prev;
+            Deletion(LRU);
+            mp.erase(LRU->key);
+            delete(LRU);
+            Insertion(head,put);
+            mp[key]=put;
+         }
+         else{
+                Node* tochange=mp[key];
+                tochange->data=value;
+                Deletion(tochange);
+                Insertion(head,tochange);
+         }
         }
     }
 };
