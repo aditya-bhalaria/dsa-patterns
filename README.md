@@ -88,6 +88,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0287-find-the-duplicate-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -125,6 +126,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -170,6 +172,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0977-squares-of-a-sorted-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
