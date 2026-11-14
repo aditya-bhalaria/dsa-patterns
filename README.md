@@ -60,6 +60,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0678-valid-parenthesis-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -213,6 +214,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0412-fizz-buzz](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
@@ -272,6 +274,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
