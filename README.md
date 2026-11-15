@@ -26,6 +26,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0009-palindrome-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0292-nim-game) |
@@ -116,6 +117,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0085-maximal-rectangle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0239-sliding-window-maximum) |
@@ -262,6 +264,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0042-trapping-rain-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0232-implement-queue-using-stacks) |
