@@ -128,6 +128,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0503-next-greater-element-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -273,6 +274,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0503-next-greater-element-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -308,6 +310,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0402-remove-k-digits](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/2104-sum-of-subarray-ranges) |
