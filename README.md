@@ -82,6 +82,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0086-partition-list) |
@@ -105,6 +106,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0039-combination-sum) |
@@ -175,6 +177,7 @@ This is a pattern wise dsa repo in which questions will be shared according to t
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aditya-bhalaria/dsa-patterns/tree/master/0977-squares-of-a-sorted-array) |
 ## Pigeonhole Principle
